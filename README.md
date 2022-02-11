@@ -16,7 +16,7 @@ Como estou bem no início desta *jornada em TI*, inicio minhas anotações a par
 
 
 
-- **Lógica de Programação, Altoritmos e Estrutura de Dados**
-- **Git e Github**
+- **Lógica de Programação, Algoritmos e Estrutura de Dados**
+- **Git e GitHub**
 
 
